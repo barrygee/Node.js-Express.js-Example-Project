@@ -1,1 +1,1 @@
-## Node.js and Express.js Example Project
+## Node.js and Express.js Fundamentals
